@@ -21,7 +21,7 @@
 // a partir  da aqui e da aula!!!
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 30;
+let numeroLimite = 20;
 let numeroSecreto = gerarNumeroSecreto();
 let tentativas = 1;
  
