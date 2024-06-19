@@ -21,7 +21,11 @@
 // a partir  da aqui e da aula!!!
 
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 80;
+=======
+let numeroLimite = 100;
+>>>>>>> parent of 9525d92 (DEIXANDO O JOGO MAIS FACIL AINDA)
 let numeroSecreto = gerarNumeroSecreto();
 let tentativas = 1;
  
